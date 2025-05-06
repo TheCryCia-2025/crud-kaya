@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+body{
+    background-image: url(https://github.com/TheCryCia-2025/crud-kaya/blob/main/assets/backgroundLoginPage.jpg?raw=true);
+    background-size:cover;
+}
+
+button{
+    font-family: "Montserrat", sans-serif;
+}
